@@ -1,0 +1,5 @@
+streamlit==1.15.0
+wikipedia-api==0.5.8
+pydub==0.25.1
+gtts==2.3.1
+wolframalpha==5.0.0
